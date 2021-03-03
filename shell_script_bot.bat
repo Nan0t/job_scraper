@@ -1,0 +1,1 @@
+C:\Users\Heru\.virtualenvs\Heru-jVBPPKEF\Scripts\python.exe "C:/Users/Heru/Desktop/project_scrap_jobs/job_scraper/src_bot.py" pause
