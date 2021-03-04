@@ -128,4 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# sensitive information
 tokens.py
+
+# bat file
+shell_script_bot.bat
